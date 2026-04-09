@@ -4,10 +4,6 @@ Full-stack JavaScript developer with 5+ years of Adobe automation experience.
 I build tools that save time — from InDesign batch scripts handling hundreds of print formats,
 to web applications built with React, HTML, and CSS.
 
----
-
-![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danichimescu&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danichimescu&layout=compact&hide_border=true)
 
 ---
 
