@@ -1,6 +1,3 @@
-# dan-ichimescu
-Full-stack JS developer  · React · HTML · CSS · Adobe InDesign &amp; Photoshop automation 
-
 # Dan Ichimescu
 
 Full-stack JavaScript developer with 5+ years of Adobe automation experience.
